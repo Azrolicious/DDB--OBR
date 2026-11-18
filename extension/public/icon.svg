@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round">
+  <!-- d20 silhouette -->
+  <path d="M12 2 21 7v10l-9 5-9-5V7z"/>
+  <path d="M12 2 7.5 9h9z"/>
+  <path d="M3 7l4.5 2L12 17l4.5-8L21 7"/>
+  <path d="M7.5 9 3 17h18l-4.5-8M12 17v5"/>
+</svg>
